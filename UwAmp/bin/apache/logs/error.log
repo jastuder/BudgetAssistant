@@ -1,0 +1,17 @@
+[Thu Nov 05 11:49:46.952923 2015] [ssl:warn] [pid 1412:tid 640] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Nov 05 11:49:47.469404 2015] [mpm_winnt:notice] [pid 1412:tid 640] AH00455: Apache/2.4.10 (Win32) OpenSSL/1.0.1h PHP/5.4.31 configured -- resuming normal operations
+[Thu Nov 05 11:49:47.469404 2015] [mpm_winnt:notice] [pid 1412:tid 640] AH00456: Apache Haus VC9 Server built: Jul 15 2014 20:34:18
+[Thu Nov 05 11:49:47.469404 2015] [core:notice] [pid 1412:tid 640] AH00094: Command line: 'D:\\Documents\\Projects\\BudgetAssistant\\UwAmp\\bin\\apache\\bin\\httpd.exe -d D:/Documents/Projects/BudgetAssistant/UwAmp/bin/apache -f D:\\Documents\\Projects\\BudgetAssistant\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Thu Nov 05 11:49:47.472915 2015] [mpm_winnt:notice] [pid 1412:tid 640] AH00418: Parent: Created child process 22616
+[Thu Nov 05 11:49:48.060413 2015] [ssl:warn] [pid 22616:tid 548] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Nov 05 11:49:48.073949 2015] [mpm_winnt:notice] [pid 22616:tid 548] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 05 11:49:54.590275 2015] [mpm_winnt:crit] [pid 22616:tid 548] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Nov 05 11:49:57.030802 2015] [core:warn] [pid 23072:tid 220] AH00098: pid file D:/Documents/Projects/BudgetAssistant/UwAmp/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 05 11:49:57.152112 2015] [ssl:warn] [pid 23072:tid 220] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Nov 05 11:49:57.165147 2015] [mpm_winnt:notice] [pid 23072:tid 220] AH00455: Apache/2.4.10 (Win32) OpenSSL/1.0.1h PHP/5.4.31 configured -- resuming normal operations
+[Thu Nov 05 11:49:57.165147 2015] [mpm_winnt:notice] [pid 23072:tid 220] AH00456: Apache Haus VC9 Server built: Jul 15 2014 20:34:18
+[Thu Nov 05 11:49:57.165147 2015] [core:notice] [pid 23072:tid 220] AH00094: Command line: 'D:\\Documents\\Projects\\BudgetAssistant\\UwAmp\\bin\\apache\\bin\\httpd.exe -d D:/Documents/Projects/BudgetAssistant/UwAmp/bin/apache -f D:\\Documents\\Projects\\BudgetAssistant\\UwAmp\\bin\\apache\\conf\\httpd.conf'
+[Thu Nov 05 11:49:57.169158 2015] [mpm_winnt:notice] [pid 23072:tid 220] AH00418: Parent: Created child process 23272
+AH00548: NameVirtualHost has no effect and will be removed in the next release D:/Documents/Projects/BudgetAssistant/UwAmp/bin/apache/conf/httpd.conf:265
+[Thu Nov 05 11:49:57.745786 2015] [ssl:warn] [pid 23272:tid 648] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Nov 05 11:49:57.763076 2015] [mpm_winnt:notice] [pid 23272:tid 648] AH00354: Child: Starting 64 worker threads.
